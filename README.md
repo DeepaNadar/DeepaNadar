@@ -1,8 +1,8 @@
 # Hello, I am Deepa Nadar😊
 ### Welcome to my GitHub profile! I'm a passionate computer science graduate with a keen interest in mobile app development.
 ## 🛠️ Skills:
-- Mobile App Development: Android Studio, Flutter
-- Programming Languages: Python, Java, Kotlin, Dart, C++, C
+- **Mobile App Development**: Android Studio, Flutter
+- **Programming Languages**: Python, Java, Kotlin, Dart, C++, C
 ## 📱 Mobile Apps:
 - [**GossUp**](https://github.com/DeepaNadar/GossUp) : GossUp is a dynamic Flutter app for real-time messaging. Enjoy secure Google Sign-In, Firebase integration, read receipts, and push notifications for enhanced communication anytime, anywhere.
 - [**CyberSail**](https://github.com/DeepaNadar/CyberSail) : CyberSail is a modern web browser built using Android Studio and Kotlin. Sail through the internet with ease, using features like floating settings, PDF webpage saving, you can navigate back and forth in time, bookmark favorite sites, and open links in new tabs.<br/>
