@@ -1,7 +1,5 @@
 # Hello, I am Deepa Nadar😊
 ### Welcome to my GitHub profile! I'm a passionate computer science graduate with a keen interest in mobile app development.
-## 🎓 Education:
-- Graduated in Computer Science
 ## 🛠️ Skills:
 - Mobile App Development: Android Studio, Flutter
 - Programming Languages: Python, Java, Kotlin, Dart, C++, C
