@@ -3,8 +3,6 @@
 ## 🛠️ Skills:
 - Mobile App Development: Android Studio, Flutter
 - Programming Languages: Python, Java, Kotlin, Dart, C++, C
-## 🚀 Projects:
-I'm a dedicated mobile app developer, and my GitHub repository is a showcase of my commitment to creating functional and user-friendly applications.
 ## 📱 Mobile Apps:
 - [**GossUp**](https://github.com/DeepaNadar/GossUp) : GossUp is a dynamic Flutter app for real-time messaging. Enjoy secure Google Sign-In, Firebase integration, read receipts, and push notifications for enhanced communication anytime, anywhere.
 - [**CyberSail**](https://github.com/DeepaNadar/CyberSail) : CyberSail is a modern web browser built using Android Studio and Kotlin. Sail through the internet with ease, using features like floating settings, PDF webpage saving, you can navigate back and forth in time, bookmark favorite sites, and open links in new tabs.<br/>
